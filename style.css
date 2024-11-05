@@ -1,4 +1,13 @@
 body {
 size: 100%;
-background-color: rgb(13, 121, 27)
+background-color: rgb(26, 207, 50)
+}
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: green    
 }
